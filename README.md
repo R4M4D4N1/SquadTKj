@@ -1,0 +1,2 @@
+# SquadTKj
+Cara instale gampang
